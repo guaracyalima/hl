@@ -1,14 +1,12 @@
 <?php 
-#require_once 'db.php';
+require_once '../core/db.php';
 
 
 function pegaData(){
 	$data = date("d/m/Y");
 	echo $data;
-
 	//passa a data atual ja formatada
 }
-
 
 function getNumFichaCadastral($conexao){
 	$query = "select id from table";

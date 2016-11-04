@@ -1,3 +1,3 @@
 <?php 
-$conexao = mysqli_connect('host', 'user', '', 'dbName');
+$conexao = mysqli_connect('localhost', 'root', '', 'hospitallivre');
  ?>

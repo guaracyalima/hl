@@ -2,7 +2,6 @@
 Arquivos de variaveis
 
 */
-@import url("https://fonts.googleapis.com/css?family=Lato");
 .container-fluid {
   padding-left: 2em;
   padding-right: 2em; }
@@ -12,6 +11,9 @@ Arquivos de variaveis
   font-size: 20px;
   color: #f85213;
   text-align: center; }
+
+.indexx {
+  background-color: #0000; }
 
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
